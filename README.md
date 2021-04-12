@@ -26,7 +26,7 @@ Treinar e aprimorar habilidades técnicas e comportamentais ensinadas pela Gener
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/martins-bea"><img style="border-radius: 50%;" src="https://i.imgur.com/E5W26vL.png" width="150px;" alt=""/><br /><sub><b>Wellington Bezerra</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/martins-bea"><img style="border-radius: 50%;" src="https://i.imgur.com/E5W26vL.png" width="400px;" alt=""/><br /><sub><b>Wellington Bezerra</b></sub></a><br /></td>
     <td align="center"><a href="https://githLimaub.com/EwertonILima"><img style="border-radius: 50%;" src="https://i.imgur.com/6Yt4nle.png" width="150px;" alt=""/><br /><sub><b>Jaqueline </b></sub></a><br /></a></td>
     <td align="center"><a href="https://github.com/IgorGato"><img style="border-radius: 50%;" src="https://i.imgur.com/pPTAbFg.png" width="150px;" alt=""/><br /><sub><b>Igor Gato</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Fer-nanda20"><img style="border-radius: 50%;" src="https://i.imgur.com/aDuWeYG.png" width="150px;" alt=""/><br /><sub><b>Fernanda </b></sub></a><br /></td>
