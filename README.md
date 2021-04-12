@@ -1,0 +1,2 @@
+# SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
+O desafio consiste na criação de um jogo funcional em grupo, utilizando a linguagem Java no prazo de 24hrs. Os grupos poderão escolher apenas uma das opções oferecidas pelos organizadores.  Treinar e aprimorar habilidades técnicas e comportamentais ensinadas pela Generation. Tais como: lógica de programação,abstração, algoritmos,trabalho em equipe e mentalidade de crescimento.
