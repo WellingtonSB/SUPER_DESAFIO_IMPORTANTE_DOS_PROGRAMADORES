@@ -30,7 +30,7 @@ Treinar e aprimorar habilidades técnicas e comportamentais ensinadas pela Gener
     
 <td align="center"><a href="https://github.com/jaquelinecavalaro"><img style="border-radius: 50%;" src="https://i.imgur.com/Jbypj0K.jpg" width="90px;" alt=""/><br /><sub><b>Jaqueline Cavalaro</b></sub></a><br /></td>  
 
-<td align="center"><a href="https://github.com/Pietra-Santos"><img style="border-radius: 50%;" src="https://i.imgur.com/lbxyfmC.jpg" width="90px;" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/Pietra-Santos"><img style="border-radius: 50%;" src="https://i.imgur.com/2cSL9aX.jpg" width="90px;" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /></td>
     
     
 
