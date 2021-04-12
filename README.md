@@ -26,7 +26,6 @@ Treinar e aprimorar habilidades técnicas e comportamentais ensinadas pela Gener
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
----
 
 ## Idealizadores:
 
