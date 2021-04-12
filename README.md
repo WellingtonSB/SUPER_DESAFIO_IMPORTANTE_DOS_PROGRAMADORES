@@ -28,11 +28,7 @@ Treinar e aprimorar habilidades técnicas e comportamentais ensinadas pela Gener
 
 ---
 
-
-
-
----
-##### Idealizadores:
+## Idealizadores:
 
 <table>
   <tr>
