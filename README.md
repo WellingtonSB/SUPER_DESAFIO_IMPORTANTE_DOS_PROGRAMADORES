@@ -21,9 +21,9 @@ Treinar e aprimorar habilidades técnicas e comportamentais ensinadas pela Gener
 ## Poste o projeto
 
 1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+2. Crie uma nova branch com as suas alterações: `git checkout -b nome do projeto/grupo`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "comentario"`
+4. Envie as suas alterações: `git push origin nome da branch`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 
