@@ -1,6 +1,11 @@
 # SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
-> A ideia é simular um #Hackathon para os alunos da turma 18, a fim de, não apenas treinar, mas também de aprimorar todo conteúdo passado durante o #bootcamp até o momento.
+> Desafio foi criado com o intuito de simular um #Hackathon para os alunos da turma 18 da Generation Brasil, a fim de, não apenas treinar, mas de aprimorar todo conteúdo passado durante o bootcamp.
+> 
 As equipes do desafio devem criar jogos funcionais utilizando apenas java no prazo de apenas 24HRs.
+
+
+
+
 
 
 
