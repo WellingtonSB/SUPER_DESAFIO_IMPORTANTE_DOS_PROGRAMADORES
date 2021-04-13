@@ -10,6 +10,18 @@
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 
+
+
+<iframe width="475" height="250" src="https://relogioonline.com.br/embed/temporizador/#countdown=15:00:00&enabled=0&seconds=53950&theme=1&ampm=0&sound=xylophone" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
 ## Idealizadores:
 
 <table>
