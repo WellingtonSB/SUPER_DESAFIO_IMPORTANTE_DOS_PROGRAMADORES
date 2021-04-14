@@ -11,11 +11,11 @@
 
 ## Regras:
 
-1. Apenas um jogo por grupo: `Foque em apenas um jogo`
-2. Respeite os prazos: `Prazo limite: 13:00 do dia 15/04.`
+1. Apenas um jogo por grupo.
+2. Respeite os prazos: `Prazo limite para a entrega: 13:00 do dia 15/04.`
 3. Mentores responderão apenas dúvidas pontuais.
-4. Sem plágio
-5.Defina um representante: `Seja criativo, não  se limite ao escopo`
+4. Sem plágio.
+5.Defina um representante: `Seja criativo, não se limite ao escopo`
 >Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
 
 ## Idealizadores:
