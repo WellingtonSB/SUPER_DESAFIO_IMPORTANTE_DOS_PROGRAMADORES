@@ -14,7 +14,7 @@
 1. Apenas um jogo por grupo.
 2. Respeite os prazos: `Prazo limite para a entrega: 13:00 do dia 15/04.`
 3. Mentores responderão apenas dúvidas pontuais.
-4. Sem plágio.
+4. Sem plágio
 5.Defina um representante: `Seja criativo, não se limite ao escopo`
 >Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
 
@@ -33,6 +33,5 @@ https://github.com/WellingtonSB/Exemplos_Jogos
 <td align="center"><a href="https://github.com/Pietra-Santos"><img style="border-radius: 50%;" src="https://i.imgur.com/2cSL9aX.jpg" width="140px;" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /></td>
     
     
-!
   </tr>
 </table>
