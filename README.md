@@ -18,6 +18,10 @@
 5.Defina um representante: `Seja criativo, não se limite ao escopo`
 >Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
 
+## Jogos Base:
+
+https://github.com/WellingtonSB/Exemplos_Jogos
+
 ## Idealizadores:
 
 <table>
