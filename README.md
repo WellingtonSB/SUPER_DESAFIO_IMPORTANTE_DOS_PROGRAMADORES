@@ -25,17 +25,7 @@ Seja criativo, não  se limite ao escopo. A ideia do desafio é aprendizado, por
 
 5.Defina um representante
 O representante do grupo será o responsável pela postagem do código no GitHub. 
->Repositorio onde devem ser postados os jogos [Repositorio](.https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES)
-
-
-
-
-
-
-
-
-
-
+>Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
 
 
 ## Idealizadores:
