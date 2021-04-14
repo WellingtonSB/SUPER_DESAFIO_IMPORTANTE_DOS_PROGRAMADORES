@@ -33,6 +33,6 @@ https://github.com/WellingtonSB/Exemplos_Jogos
 <td align="center"><a href="https://github.com/Pietra-Santos"><img style="border-radius: 50%;" src="https://i.imgur.com/2cSL9aX.jpg" width="140px;" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /></td>
     
     
-
+!
   </tr>
 </table>
