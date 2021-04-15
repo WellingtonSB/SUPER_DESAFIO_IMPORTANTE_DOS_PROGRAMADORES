@@ -19,7 +19,7 @@
 5. Defina um representante: `Seja criativo, não se limite ao escopo`
 >Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
 
-## Repositorio :e-mail:
+## Repositorios equipes :e-mail:
 
 Equipe 4FUN –[:octocat:](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/4FUN) 
 
