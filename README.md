@@ -1,38 +1,49 @@
-# SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
-> Desafio foi criado com o intuito de simular um #Hackathon para os alunos da turma 18 da Generation Brasil, a fim de, não apenas treinar, mas de aprimorar todo conteúdo passado durante o bootcamp.
+<h1 align="center">  JOGO DA VELHA  </h1>
 
 
-## Poste o projeto
+<h4 align="center"> 
+  STATUS:  FINALIZADO
+</h4>
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b nome do projeto/grupo`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "comentario"`
-4. Envie as suas alterações: `git push origin nome da branch`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
-## Regras:
+---
 
-1. Apenas um jogo por grupo.
-2. Respeite os prazos: `Prazo limite para a entrega: 13:00 do dia 15/04.`
-3. Mentores responderão apenas dúvidas pontuais.
-4. Sem plágio 
-5. Defina um representante: `Seja criativo, não se limite ao escopo`
->Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
+[![GitHub issues](https://img.shields.io/github/issues/yurirampazo/JogoDaVelha?logo=GitHub)](https://github.com/yurirampazo/JogoDaVelha/issues)
+[![GitHub license](https://img.shields.io/github/license/yurirampazo/JogoDaVelha?color=3&logo=Github)](https://github.com/yurirampazo/JogoDaVelha)
+[![GitHub forks](https://img.shields.io/github/forks/yurirampazo/JogoDaVelha?logo=GitHub)](https://github.com/yurirampazo/JogoDaVelha/network)
+[![GitHub stars](https://img.shields.io/github/stars/yurirampazo/JogoDaVelha?logo=github)](https://github.com/yurirampazo/JogoDaVelha/stargazers)
+![GitHub last commit](https://img.shields.io/github/last-commit/yurirampazo/JogoDaVelha)
 
-## Repositorios equipes :
 
-Equipe 4FUN –[:octocat:](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/4FUN) 
+---
 
-## Idealizadores:
+## 📄 Sobre o Projeto
+<p align="center"> 
+	 Jogo da velha customizado com batalha épica, entre e se divirta.
+</p>
+
+---
+## 🚀 Como executar o jogo
+
+- Você pode executar o jogo em alguma IDE que trabalhe com a linguagem Java
+- Baixar o arquivo executável (.jar) e execute dentro do seu terminal o seguinte comando:
+java -jar <file-name>
+
+
+- Agora é só jogar e se divertir com seus amigos!
+
+
+
+## 👨‍💻 Contribuidores
 
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/WellingtonSB"><img style="border-radius: 50%;" src="https://i.imgur.com/76YXVmC.jpg" width="140px;" alt=""/><br /><sub><b>Wellington Bezerra</b></sub></a><br /></td>
-    
-<td align="center"><a href="https://github.com/jaquelinecavalaro"><img style="border-radius: 50%;" src="https://i.imgur.com/Jbypj0K.jpg" width="140px;" alt=""/><br /><sub><b>Jaqueline Cavalaro</b></sub></a><br /></td>  
-
-<td align="center"><a href="https://github.com/Pietra-Santos"><img style="border-radius: 50%;" src="https://i.imgur.com/2cSL9aX.jpg" width="140px;" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /></td>
-    
-    
-  </tr>
+ <tr>
+	<td align="center"><a href="https://www.linkedin.com/in/lucas-zamora-2b3a34180//"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78884190?v=4" alt=""/><br /><sub><b>Lucas Zamora</b></sub></a><br /><a href="https://github.com/Lucas-Zamora" title="Participante Generation Brasil">👨‍🚀</a></td> 
+	  <td align="center"><a href="https://www.linkedin.com/in/igorjps/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79109692?v=4" alt=""/><br /><sub><b>Igor Pereira</b></sub></a><br /><a href="https://www.linkedin.com/in/igorjps/" title="Participante Generation Brasil">👨‍🚀</a></td> 
+	   <td align="center"><a href="https://www.linkedin.com/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79532365?v=4" alt=""/><br /><sub><b>Palmira Filipe</b></sub></a><br /><a href="https://www.linkedin.com/" title="Participante Generation Brasil">👨‍🚀</a></td> 
+	     <td align="center"><a href="https://www.linkedin.com/in/pietra-santos-0330171aa/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75040165?v=4" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /><a href="https://www.linkedin.com/in/pietra-santos-0330171aa/" title="Participante Generation Brasil">👨‍🚀</a></td>
+         <td align="center"><a href="https://www.linkedin.com/in/yurimrampazo/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78765799?s=400&u=f8a41d23588843f2686ec6dec0c6a588843d851e&v=4" alt=""/><br /><sub><b>Yuri Rampazo</b></sub></a><br /><a href="https://www.linkedin.com/in/yurimrampazo/" title="Participante Generation Brasil">👨‍🚀</a></td>
+</tr>
 </table>
+
+👋🏽 Entre em contato!
