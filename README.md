@@ -1,37 +1,47 @@
-# SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
-> Desafio foi criado com o intuito de simular um #Hackathon para os alunos da turma 18 da Generation Brasil, a fim de, não apenas treinar, mas de aprimorar todo conteúdo passado durante o bootcamp.
+# MontaMonta
+> Equipe 4FUN trouxe o jogo de montar peças.:video_game:
 
-## Poste o projeto
+![](https://media.giphy.com/media/RBtJFeC3WbXMSvXsdI/giphy.gif)<br>
+     O Monta Monta(Tetris), consiste em empilhar as peças que descem a tela
+ em uma velocidade que pode ser controlada gradativamente pelo jogador. 
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b nome do projeto/grupo`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "comentario"`
-4. Envie as suas alterações: `git push origin nome da branch`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
-## Regras:
+## Ambiente
 
-1. Apenas um jogo por grupo.
-2. Respeite os prazos: `Prazo limite para a entrega: 13:00 do dia 15/04.`
-3. Mentores responderão apenas dúvidas pontuais.
-4. Sem plágio 
-5. Defina um representante: `Seja criativo, não se limite ao escopo`
->Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
+:coffee: [JAVA JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) 
 
-## Jogos Base:
+:waxing_crescent_moon: [Eclipse](https://www.eclipse.org/downloads/)
 
-https://github.com/WellingtonSB/Exemplos_Jogos
+Instale o Java e o eclipse para importa o projeto e rodar.
 
-## Idealizadores:
+##  Como Jogar  :joystick:
+    O jogador controla as peças pelos direcionais(setas): 
+    direcional baixo faz com que acelere a peça(Key down),direcionalcima muda o lado de encaixe (key up), 
+    direcional esquerdo/direito(key rigth and key left) muda a direção da peça.
+    Quando completado linhas horizontais é contado como um ponto.
+  
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/WellingtonSB"><img style="border-radius: 50%;" src="https://i.imgur.com/76YXVmC.jpg" width="140px;" alt=""/><br /><sub><b>Wellington Bezerra</b></sub></a><br /></td>
-    
-<td align="center"><a href="https://github.com/jaquelinecavalaro"><img style="border-radius: 50%;" src="https://i.imgur.com/Jbypj0K.jpg" width="140px;" alt=""/><br /><sub><b>Jaqueline Cavalaro</b></sub></a><br /></td>  
 
-<td align="center"><a href="https://github.com/Pietra-Santos"><img style="border-radius: 50%;" src="https://i.imgur.com/2cSL9aX.jpg" width="140px;" alt=""/><br /><sub><b>Pietra Santos</b></sub></a><br /></td>
-    
-    
-  </tr>
-</table>
+
+#  Mapeamento de tarefas :scroll:
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+</p>
+
+   - [x] IMPLEMENTADO:  Tela e objetos peças que são vetores prenchidos com cores hexaDecimais (Completo) :heavy_check_mark:
+  -  EM PROGRESSO: Criar metodo  para gerar niveis de dificuldade de acordo com a pontução                :x:
+       `public void contLevelUp()`.
+  - [x] IMPLEMENTADO: Novos icones do jogo`../data/contentImages` .                                      :heavy_check_mark:
+  - [x] IMPLEMENTADO: Logica de Colisão das peças.                                                       :heavy_check_mark:
+ -   EM PROGRESSO: Adicionar fontes externas no metodo da biblioteca AWT.                                :x:
+  ` private static void createAndShowGUI() throws Exception { add.font GUI ...} `
+
+
+## Repositorio :e-mail:
+
+Equipe 4FUN –[:octocat:](https://github.com/matheusrcruz/MontaMonta/) 
+
+
+
+## Obrigado Equipe 4FUN sem vocês esse projeto seria nada
+:man:💻 José Victor Paranan Roman, :man:💻 Matheus Rufino Cruz, :woman:💻Miria Andressa Santos,:woman:💻Stephany Vila Nova de Macedo .
+
