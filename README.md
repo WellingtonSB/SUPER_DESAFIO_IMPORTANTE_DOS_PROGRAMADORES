@@ -1,7 +1,7 @@
 # MontaMonta
 > Equipe 4FUN trouxe o jogo de montar peças.:video_game:
 
-![](https://media.giphy.com/media/RBtJFeC3WbXMSvXsdI/giphy.gif)<br>
+![](https://j.gifs.com/gZ1j03.gif)<br>
      O Monta Monta(Tetris), consiste em empilhar as peças que descem a tela
  em uma velocidade que pode ser controlada gradativamente pelo jogador. 
 
