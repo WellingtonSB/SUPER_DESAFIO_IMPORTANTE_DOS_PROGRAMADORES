@@ -22,6 +22,8 @@
 ## Repositorios equipes :
 
 Equipe 4FUN –[:octocat:](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/4FUN) 
+Equipe VeryTop - [🔝](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/JogoDaVelhaVeryTop)
+Equipe PokeMon- [🌑](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/PacMon)
 
 ## Idealizadores:
 
