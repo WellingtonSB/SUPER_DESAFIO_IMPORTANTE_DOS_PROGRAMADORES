@@ -1,5 +1,5 @@
 # SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
-> Desafio foi criado com o intuito de simular um #Hackathon para os alunos da turma 18 da Generation Brasil, a fim de, não apenas treinar, mas de aprimorar todo conteúdo passado durante o bootcamp.
+> Desafio  realizado nos dias 14/04 e 15/04. O intuito de simular um #Hackathon para os alunos da turma 18 da Generation Brasil, a fim de, não apenas treinar, mas de aprimorar todo conteúdo passado durante o bootcamp da Generation Brasil.
 
 
 ## Poste o projeto
@@ -19,13 +19,15 @@
 5. Defina um representante: `Seja criativo, não se limite ao escopo`
 >Repositorio onde devem ser postados os jogos https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES
 
+
 ## Repositorios equipes :
+>Apoie os projetos
 
-Equipe 4FUN –[:octocat:](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/4FUN)
+Equipe 4FUN –[:octocat:](https://github.com/matheusrcruz/MontaMonta)
 
-Equipe VeryTop - [🔝](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/JogoDaVelhaVeryTop)
+Equipe VeryTop - [🔝](https://github.com/yurirampazo/JogoDaVelha)
 
-Equipe PokeMon- [🌑](https://github.com/WellingtonSB/SUPER_DESAFIO_IMPORTANTE_DOS_PROGRAMADORES/tree/PacMon)
+Equipe PokeMon- [🌑](https://github.com/fabiolimadiogenes/PacMon-Java)
 
 ## Idealizadores:
 
